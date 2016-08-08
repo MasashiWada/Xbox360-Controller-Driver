@@ -1,0 +1,9 @@
+
+;	Property Sheet for Microsoft Xbox 360 Wireless Controller
+
+LIBRARY		"x360wcps.dll"
+
+EXPORTS
+	DllGetClassObject	PRIVATE
+	DllCanUnloadNow		PRIVATE
+

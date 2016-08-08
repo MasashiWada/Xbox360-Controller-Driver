@@ -1,0 +1,9 @@
+
+;	Force Feedback Driver for Microsoft Xbox 360 Wireless Controller
+
+LIBRARY		"x360wcffd.dll"
+
+EXPORTS
+	DllGetClassObject	PRIVATE
+	DllCanUnloadNow		PRIVATE
+

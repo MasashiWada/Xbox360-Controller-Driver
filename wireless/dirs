@@ -1,0 +1,5 @@
+DIRS= \
+     x360wcffd \
+     x360wchm \
+     x360wcps \
+     x360wcsai
